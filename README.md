@@ -1,4 +1,5 @@
-# dev.finance$ (Maratona Discover @Rocketseat)
+# Maratona Discover
+## dev.finance$ (Rocketseat)
 
 # View Desktop
 
