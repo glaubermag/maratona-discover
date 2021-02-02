@@ -8,7 +8,7 @@
 
 ![alt text](https://github.com/glaubermag/maratona-discover/blob/main/assets/devfinancemobile.png?raw=true)
 
-##🚀 Tecnologias
+🚀 ##Tecnologias
 ##Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ##HTML
@@ -16,13 +16,13 @@
 ##JavaScript
 
 
-##💻 Projeto
+💻 ##Projeto
 ##O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
 
 ## Créditos 
 
-##📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+📝 ##Licença
+##Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Feito com ♥ by Rocketseat 👋 Participe da nossa comunidade!
+##Feito com ♥ by Rocketseat 👋 Participe da nossa comunidade!
