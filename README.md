@@ -1,8 +1,4 @@
-# maratona-discover
-
-# 
-
-![alt text](https://github.com/glaubermag/glassmorphism/blob/main/img_github/glassmorphism.png?raw=true)
+# dev.finance$ (Maratona Discover @Rocketseat)
 
 # View Desktop
 
@@ -12,8 +8,19 @@
 
 ![alt text](https://github.com/glaubermag/maratona-discover/blob/main/assets/devfinancemobile.png?raw=true)
 
+🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+HTML
+CSS
+JavaScript
+💻 Projeto
+O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
 
 ## Créditos 
 
+📝 Licença
+Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Feito com ♥ by Rocketseat 👋 Participe da nossa comunidade!
